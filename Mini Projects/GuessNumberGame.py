@@ -1,5 +1,6 @@
 import random
 
+
 number = input("Type a number: ")
 
 if number.isdigit():

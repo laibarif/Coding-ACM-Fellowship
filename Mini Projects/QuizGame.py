@@ -1,3 +1,4 @@
+
 print("Welcome to Quiz!")
 playing = input("Do you want to Play: ")
 if playing.lower() != "yes":
